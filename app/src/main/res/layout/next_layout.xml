@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#00BCD4"
+        android:inputType="text"
+        android:layout_marginTop="10dp"/>
+
+
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#009688"
+        android:inputType="textPersonName"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#8BC34A"
+        android:inputType="phone"
+        android:layout_marginTop="10dp"/>
+
+
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#FFEB3B"
+        android:inputType="number"
+        android:layout_marginTop="10dp"/>
+
+
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#F44336"
+        android:inputType="textPassword"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:background="#FF9800"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
